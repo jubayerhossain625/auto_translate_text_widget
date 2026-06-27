@@ -184,3 +184,14 @@ Translated Widgets
 ## 📄 License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## Author
+
+<a href="https://jubayer.starsoftplus.com">
+  <img src="https://jubayer.starsoftplus.com/uploads/profile/logo_image-1779555521059-756864562.jpg" width="100" height="100" style="border-radius: 50%;">
+</a>
+
+Developed with ❤️ by Md Jubayer Hossain  
+[GitHub Profile](https://github.com/jubayerhossain625) | [Portfolio](https://jubayer.starsoftplus.com)
