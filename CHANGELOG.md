@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Added author information to README
+
 ## 1.0.0
 
 * Initial release

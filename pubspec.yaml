@@ -2,7 +2,7 @@ name: auto_translate_text_widget
 description: >-
   Translate Flutter Text, AutoSizeText, RichText and Animated Text instantly
   with live language switching, caching, and Google Translator support.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/jubayerhossain625/auto_translate_text_widget
 topics:
   - translation
